@@ -6,7 +6,7 @@ Welcome to my Python Projects Repository! This is a collection of small, self-co
 
 Here's a brief overview of each project:
 
-1. **Project 1**: Find and add numbers inside a file
+1. **Project_1**: Find and add numbers inside a file
 
 
 ## 📚 Documentation
