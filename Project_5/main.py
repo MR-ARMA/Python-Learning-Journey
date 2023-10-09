@@ -10,7 +10,7 @@ def rangoli(size):
         # Create a list of characters to include in the current line.
         chars = [alphabet[j] for j in range(size - 1, i, -1)]  # Right half of the line.
         chars.extend([alphabet[j] for j in range(i + 1, size)])  # Left half of the line.
-        
+        # must be reverse
         # Join the characters with hyphens and center-align the line.
         line = '-'.join(chars).center(size * 4 - 3, '-')
         lines.append(line)
