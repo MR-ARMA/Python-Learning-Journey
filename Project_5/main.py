@@ -1,29 +1,31 @@
-def rangoli(size):
+def print_rangoli(size):
+    # your code goes here
     import string
     
-    # Create a list of all alphabet letters.
     alphabet = string.ascii_lowercase
+    list_1 = [alphabet[i] for i in range(size - 1, -1, -1)]
     
-    # Create the rangoli lines.
-    lines = []
-    for i in range(size):
-        # Create a list of characters to include in the current line.
-        chars = [alphabet[j] for j in range(size - 1, i, -1)]  # Right half of the line.
-        chars.extend([alphabet[j] for j in range(i + 1, size)])  # Left half of the line.
-        # must be reverse
-        # Join the characters with hyphens and center-align the line.
-        line = '-'.join(chars).center(size * 4 - 3, '-')
-        lines.append(line)
+    for i in range(len(list_1)):
+        line = list_1[: i]
+        sol = []
+        sol.extend(line)
+        sol.append(list_1[i])
+        sol.extend(line[::-1])
+        print("-".join(sol).center(4 * size - 3, "-"))
     
-    # Join all the lines with newline characters.
-    return '\n'.join(lines + lines[:-1][::-1])  # Combine top and bottom halves of the rangoli.
 
-# Input size
-size = int(input())
-# Print the rangoli
-print(rangoli(size))
 
+    for i in range(len(list_1) - 2, -1, -1):
+        line = list_1[: i]
+        sol = []
+        sol.extend(line)
+        sol.append(list_1[i])
+        sol.extend(line[:: -1])
+        print("-".join(sol).center(4 * size - 3, "-"))
+        
+        
     
+
 if __name__ == '__main__':
     n = int(input())
     print_rangoli(n)
