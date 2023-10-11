@@ -8,12 +8,18 @@ Welcome to my Python Projects Repository! This is a collection of small, self-co
 
 Here's a brief overview of each project:
 
+### Just coding project:
+
 1. **Project_1**: Find and add numbers inside a file
 2. **Project_2**: Rock Paper Scissors
 3. **project_3**: Palindrome Checker
 4. **project_4**: Tower of Hanoi Solver
 5. **project_5**: Alphabet Rangoli
-   
+
+### Standard project with src file
+
+6. **project_6**: Number guesser (just have main file) 
+7. **project_7**: Number guesser (with src file)
 
 
 ## 📚 Documentation
