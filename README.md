@@ -10,6 +10,10 @@ Here's a brief overview of each project:
 
 1. **Project_1**: Find and add numbers inside a file
 2. **Project_2**: Rock Paper Scissors
+3. **project_3**: Palindrome Checker
+4. **project_4**: Tower of Hanoi Solver
+5. **project_5**: Alphabet Rangoli
+   
 
 
 ## 📚 Documentation
