@@ -10,11 +10,6 @@ Here's a brief overview of each project:
 
 
 
-### Standard project with src file
-
-6. **project_6**: Number guesser (just have main file) 
-7. **project_7**: Number guesser (with src file)
-
 
 ## 📚 Documentation
 
