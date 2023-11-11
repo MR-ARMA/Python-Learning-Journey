@@ -19,9 +19,7 @@ For detailed documentation on each project, including installation instructions,
 
 Contributions are welcome! If you have a Python project that you think others might find useful, feel free to submit a pull request. Just make sure to include a detailed `README.md` file that explains what your project does and how to use it.
 
-## 📝 License
 
-This repository is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## 🙏 Acknowledgements
 
