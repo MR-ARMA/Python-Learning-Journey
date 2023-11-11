@@ -29,7 +29,3 @@ The basic outline of the program is as follows:
 
 To run the program, simply execute the Python script in your terminal. 💻🔄
 
-## License ⚖️
-
-This project is licensed under the MIT License.
-
