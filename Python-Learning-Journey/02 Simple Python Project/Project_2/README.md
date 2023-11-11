@@ -25,9 +25,7 @@ The winner is decided based on these rules. If you are familiar with the popular
 
 ## Prerequisites 
 
-- Python 3.x
-
-## Installation 💻
+- Python 3.7
 
 
 ## Usage 🎮
@@ -37,6 +35,3 @@ The game prompts you to enter your choice of 'R' for Rock, 'P' for Paper, or 'S'
 To exit the game, enter 'EXIT'.
 
 
-## License 📄
-
-Distributed under the MIT License. See `LICENSE` for more information.
