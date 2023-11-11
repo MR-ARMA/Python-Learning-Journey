@@ -6,10 +6,9 @@ Welcome to the Rock-Paper-Scissors game! This is a classic two-player game imple
 
 - [About the Game](#about-the-game)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ![Alt text](marcus-wallis-R1qHDAEnCmc-unsplash.jpg)
 
