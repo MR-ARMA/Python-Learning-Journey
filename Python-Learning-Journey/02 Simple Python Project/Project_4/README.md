@@ -19,11 +19,4 @@ This repository contains a Python program that solves the classic Tower of Hanoi
 To use this program, run the Python script and enter the number of disks when prompted. The program will then print the sequence of moves to solve the Tower of Hanoi problem with the given number of disks.
 
 
-## Contributing 🤝
-
-Contributions are welcome! If you have a feature you'd like to add or a bug you'd like to fix, please open an issue or submit a pull request.
-
-## License ⚖️
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
