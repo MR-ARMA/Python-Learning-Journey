@@ -16,12 +16,5 @@ To run the program, simply input the size of the rangoli you want to generate wh
 
 
 
-## Future Updates 🔮
 
-- Add support for different alphabets and languages.
-- Implement the ability to save the generated rangoli to an image file.
-
-## License ⚖️
-
-This project is licensed under the MIT License.
 
