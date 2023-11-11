@@ -14,12 +14,3 @@ This repository contains a simple Python program that checks if a given word is 
 
 To use this program, simply run the Python script and enter a word when prompted. The program will then check if the word is a palindrome and print the result.
 
-
-## Contributing 🤝
-
-Contributions are welcome! If you have a feature you'd like to add or a bug you'd like to fix, please open an issue or submit a pull request.
-
-## License ⚖️
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
