@@ -7,13 +7,13 @@ Welcome to my Python Projects Repository! This is a collection of small, self-co
 ## 🔍 Project Overview
 
 ### Simple Python Project Just for starr
-Project 01: Finding Numbers in a Haystack
-Project 02: Rock-Paper-Scissors Game
-Project 03: Palindrome Checker
-Project 04: Tower of Hanoi Solver
-Project 05: Alphabet Rangoli
-Project 06: Project: Number Gesser Game 1
-Project 07: Project: Number Gesser Game 2
+- Project 01: Finding Numbers in a Haystack
+- Project 02: Rock-Paper-Scissors Game
+- Project 03: Palindrome Checker
+- Project 04: Tower of Hanoi Solver
+- Project 05: Alphabet Rangoli
+- Project 06: Project: Number Gesser Game 1
+- Project 07: Project: Number Gesser Game 2
 
 ## Projects Level 01
 
