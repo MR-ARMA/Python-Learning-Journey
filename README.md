@@ -2,7 +2,7 @@
 
 Welcome to my Python Projects Repository! This is a collection of small, self-contained Python projects that I've created for learning, experimenting, and sharing with others. Each project is designed to solve a specific problem or demonstrate a particular concept, and they all have detailed documentation to help you understand what they do and how they work.
 
-![001](https://github.com/MR-ARMA/Simple-Python-Project/assets/110169640/d4fdae1b-95a2-4da4-a314-ef32cd86a19a)
+![001](Python-Learning-Journey/01%20Must%20We%20Know/pictures/python.jpeg)
 
 ## 🔍 Project Overview
 
