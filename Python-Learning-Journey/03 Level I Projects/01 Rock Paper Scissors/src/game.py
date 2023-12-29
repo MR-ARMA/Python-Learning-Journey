@@ -1,7 +1,14 @@
+"""
+Author: MR-ARMA
+Description: rock paper scissor game.
+"""
+
+
 import random
 
 
 class RockPaperScissors:
+
     def __init__(self, ):
         self.option = ['rock', 'paper', 'scissor']
 
