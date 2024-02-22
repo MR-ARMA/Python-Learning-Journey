@@ -2,7 +2,7 @@ from pytube import YouTube
 
 class YouTubeDownloader():
     def __init__(self, url, quality = None, output_path = None):
-        self.quality = quality or '144p'
+        self.quality = quality or 'highest'
         self.url = url
         self.yt = YouTube(url)
         self.output_path = output_path or '.'
