@@ -1,3 +1,4 @@
+![picture](./pictures/youtube-videos.jpg)
 # YouTube Downloader
 
 YouTube Downloader is a command-line tool and web application designed to provide users with a simple and efficient way to download videos from YouTube for offline viewing. This project aims to solve the problem of needing to access YouTube videos without an internet connection or wanting to save videos for later viewing.
